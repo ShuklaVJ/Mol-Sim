@@ -1,0 +1,6 @@
+rdkit-pypi
+numpy
+pandas
+seaborn
+matplotlib
+requests
